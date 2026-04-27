@@ -1,88 +1,138 @@
-Policy & Safety
+Privacy Policy
 
-At Love Birds, your privacy and relationship memories matter. We keep the app simple, private, and safe for couples and solo users.
+Last updated: April 2026
 
-1. Your Profile Data
+Love Birds respects your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use our app.
 
-We collect basic profile details such as:
+1. Information We Collect
+
+When you use Love Birds, we may collect the following information:
 
 Name
 Email address
 Profile photo
 Relationship start date
-Partner preview details if you add a partner manually
+Partner name and image if you add them manually
+Memories, notes, moods, bucket list items, places, and other content you save in the app
+Device and app usage information for security, analytics, and app improvement
 
-Your profile details are used only to show your account, your couple space, widgets, memories, notes, moods, and shared features inside the app.
+2. How We Use Your Information
 
-2. Couple Data
+We use your information to:
 
-If you connect with a partner, both users may access shared couple data such as:
+Create and manage your account
+Show your profile and partner details
+Save your memories, notes, moods, places, and relationship information
+Allow connected partners to share couple features
+Improve app performance and user experience
+Protect your account and prevent unauthorized access
+Provide support when you contact us
+
+3. Solo Use and Partner Connection
+
+You can use Love Birds by yourself without connecting a partner.
+
+If you connect with a partner, both users may access shared couple content, including memories, notes, moods, bucket list items, places, and relationship details.
+
+If your partner has not joined yet, you may add their name or image as preview data. Once your partner joins, their real profile details may be shown from their own account.
+
+4. Shared Couple Data
+
+When you are connected with a partner, shared data may be visible to both users in the couple space.
+
+This may include:
 
 Memories
 Notes
-Bucket list
-Moods
+Mood updates
+Bucket list items
 Places visited
 Important dates
-Shared widgets
+Widgets
+Relationship details
 
-If you are using the app solo, your data stays under your own account and couple space.
+Please only add content that you are comfortable sharing with your connected partner.
 
-3. Partner Preview Data
+5. How We Store Your Data
 
-If your partner has not joined yet, you may add their name or image as preview data.
+We use Firebase and related cloud services to store and manage app data.
 
-This preview data is only used inside your app until your partner joins.
+Images may be stored using secure cloud image storage services.
 
-Once your partner joins, their real profile data will come from their own account.
+We use authentication and database security rules to help protect your data from unauthorized access.
 
-4. Profile Updates
+6. Data Sharing
 
-When you update your name or profile image, the app updates your user profile.
+We do not sell your personal information.
 
-Your partner may see your updated name and image if you are connected.
+We do not make your memories, notes, or relationship data public.
 
-5. Disconnecting From Partner
+We may share limited data only when needed to:
+
+Operate the app
+Store images and app content
+Provide analytics and crash reporting
+Comply with legal requirements
+Protect the safety and security of users
+
+7. Third-Party Services
+
+Love Birds may use third-party services such as:
+
+Firebase Authentication
+Cloud Firestore
+Firebase Storage or other image storage services
+Firebase Analytics
+Crash reporting tools
+Payment or subscription services if premium features are added
+
+These services may collect information according to their own privacy policies.
+
+8. Profile Updates
+
+When you update your name or profile photo, your connected partner may see the updated details.
+
+Your real profile information is stored in your user account. Partner preview data is only used when the partner has not joined yet.
+
+9. Disconnecting From a Partner
 
 You can disconnect from your partner at any time.
 
 When you disconnect:
 
-Your account is removed from the shared couple connection
+Your account is removed from the couple connection
 Your personal profile is not deleted
 Your partner’s profile is not deleted
-Shared couple data may remain unless manually deleted
+Shared couple data may remain unless deleted separately
 
-6. Data Security
+10. Account and Data Deletion
 
-We use Firebase services to store and protect app data.
+You may request to delete your account or personal data.
 
-Only connected users should be able to access shared couple data. We use Firebase authentication and database rules to help protect your information.
+When your account is deleted, we will take reasonable steps to remove or anonymize your personal information, unless we need to keep certain data for legal, security, or operational reasons.
 
-7. What We Do Not Do
+Shared couple content may need to be deleted separately, especially if it belongs to a shared couple space.
 
-We do not sell your personal relationship data.
+11. Children’s Privacy
 
-We do not make your memories public.
+Love Birds is not intended for children under 13 years old.
 
-We do not allow random users to access your couple space without permission.
+We do not knowingly collect personal information from children under 13. If we discover that a child has provided personal information, we will take steps to delete it.
 
-8. Images & Media
+12. Security
 
-Profile images and memory images may be uploaded using secure image storage services.
+We take reasonable steps to protect your information.
 
-Only users with access to the couple space should be able to view shared images.
+However, no online service is completely secure. You are responsible for keeping your login details safe and only sharing invite codes with people you trust.
 
-9. Account Deletion
+13. Changes to This Privacy Policy
 
-You may request to delete your account and personal data.
+We may update this Privacy Policy from time to time.
 
-Deleting your account may remove your profile information, but shared couple content may require separate deletion depending on your connection status.
+If we make major changes, we may notify you inside the app or through other reasonable methods.
 
-10. Contact
+14. Contact Us
 
-If you have questions about privacy, safety, data deletion, or account issues, please contact us:
+If you have any questions, concerns, or requests about this Privacy Policy, contact us at:
 
 support@lovebirdsapp.com
-
-Last updated: April 2026
